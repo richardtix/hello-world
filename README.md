@@ -2,4 +2,4 @@
 first repo
 
 hola amigos
-[ ] learn markdown 
+- [ ] learn markdown 
